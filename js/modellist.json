@@ -1,0 +1,45 @@
+{
+"0": {
+    "barcode_value": 0,
+    "model_name": "base",
+    "model_url": "#",
+    "position": { "x": 0, "y": -10, "z": 1 },
+    "rotation": { "x": 0, "y": 0, "z": 0 },
+    "color": "#795548",
+    "width": 15,
+    "height": 10
+},
+"1": {
+    "barcode_value": 1,
+    "model_name": "road",
+    "model_url": "https://raw.githubusercontent.com/whitehatjr/three-d-models/main/model_gltf_6YmjcoM2ebx_6dQpF5pzTPc/model.gltf",
+    "position": { "x": 0, "y": 0, "z": 1 },
+    "rotation": { "x": 0, "y": -90, "z": 90 },
+    "scale": { "x": 0.45, "y": 0.65, "z": 0.65},
+    "placement_position": { "x": 0, "y": -10, "z": 1.8 },
+    "placement_rotation": { "x": 0, "y": -90, "z": 90 },
+    "placement_scale": { "x": 2, "y": 1, "z": 2 }
+},
+"2": {
+    "barcode_value": 2,
+    "model_name": "sun",
+    "model_url":"https://raw.githubusercontent.com/whitehatjr/three-d-models/main/sun_model/sun_02.gltf",
+    "position": { "x": 0, "y": 0, "z": 0 },
+    "rotation": { "x": 0, "y": 0, "z": 90 },
+    "scale": { "x": 0.004, "y": 0.004, "z": 0.004 },
+    "placement_position": { "x": 0, "y": -15, "z": -1 },
+    "placement_rotation": { "x": 0, "y": 0, "z": 90 },
+    "placement_scale": { "x": 0.004, "y": 0.004, "z": 0.004 }
+},
+"3":{
+    "barcode_value": 3,
+    "model_name": "car",
+    "model_url": "https://raw.githubusercontent.com/whitehatjr/three-d-models/main/car_model/Convertible.gltf",
+    "position": { "x": 0, "y": 0, "z": 0 },
+    "rotation": { "x": 0, "y": -90, "z": 90 },
+    "scale": { "x": 0.09, "y": 0.09, "z": 0.09 },
+    "placement_position": { "x": 0, "y": -10, "z": 0.7 },
+    "placement_rotation": { "x": 0, "y": -90, "z": 90 },
+    "placement_scale": { "x": 0.09, "y": 0.09, "z": 0.09 }
+}
+}
